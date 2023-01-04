@@ -1,0 +1,289 @@
+﻿0 HEAD
+1 SOUR AgelongTree
+2 NAME Древо Жизни
+2 VERS 5.6
+2 CORP Genery.com
+1 CHAR UTF-8
+1 DATE 5 DEC 2022
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 SUBM @U0@
+0 @U0@ SUBM
+1 NAME Древо Жизни, https://genery.com/ru
+0 @I1@ INDI
+1 _UID C7ADEAD2_4
+1 NAME Dio /Brando/
+2 GIVN Dio
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 ADOP
+2 FAMC @F1@
+3 ADOP BOTH
+1 FAMC @F1@
+2 PEDI Adopted
+1 DEAT
+2 DATE 1989
+1 FAMS @F2@
+0 @I2@ INDI
+1 _UID C7ADEAD2_3
+1 NAME Jonathan /Joestar/
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 FAMC @F1@
+1 DEAT
+2 DATE 1889
+1 FAMS @F3@
+0 @I3@ INDI
+1 _UID C7ADEAD2_5
+1 NAME Erina /Joestar (Pendleton)/
+2 GIVN Erina
+2 SURN Pendleton
+1 SEX F
+1 BIRT
+2 DATE 1869
+1 FAMC @F4@
+1 DEAT
+2 DATE 1950
+1 FAMS @F3@
+0 @I4@ INDI
+1 _UID C7ADEAD2_11
+1 NAME Elizabeth /Joestar/
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1888
+1 FAMC @F5@
+1 DEAT Y
+1 FAMS @F6@
+0 @I5@ INDI
+1 _UID C7ADEAD2_10
+1 NAME George II /Joestar/
+2 GIVN George II
+1 SEX M
+1 BIRT
+2 DATE 1889
+1 FAMC @F3@
+1 DEAT
+2 DATE 1921
+1 FAMS @F6@
+0 @I6@ INDI
+1 _UID C7ADEAD2_12
+1 NAME Joseph /Joestar/
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 1920
+1 FAMC @F6@
+1 FAMS @F7@
+1 FAMS @F8@
+1 NOTE STAND: Hermit Purple
+0 @I7@ INDI
+1 _UID C7ADEAD2_15
+1 NAME Suzi Q /Joestar/
+2 GIVN Suzi Q
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 FAMC @F9@
+1 FAMS @F7@
+0 @I8@ INDI
+1 _UID C7ADEAD2_17
+1 NAME Sadao /Kujo/
+2 GIVN Sadao
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 FAMS @F10@
+0 @I9@ INDI
+1 _UID C7ADEAD2_16
+1 NAME Holy /Kujo (Joestar)/
+2 GIVN Holy
+2 SURN Joestar
+1 SEX F
+1 BIRT
+2 DATE 1942
+1 FAMC @F7@
+1 FAMS @F10@
+0 @I10@ INDI
+1 _UID C7ADEAD2_13
+1 NAME Tomoko /Higashikata/
+2 GIVN Tomoko
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMS @F8@
+0 @I11@ INDI
+1 _UID C7ADEAD2_18
+1 NAME Jotaro /Kujo/
+2 GIVN Jotaro
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 FAMC @F10@
+1 DEAT
+2 DATE 2012
+1 FAMS @F11@
+1 NOTE STAND: Star Platinum
+0 @I12@ INDI
+1 _UID C7ADEAD2_14
+1 NAME Josuke /Higashikata/
+2 GIVN Josuke
+1 SEX M
+1 BIRT
+2 DATE 1983
+1 FAMC @F8@
+1 NOTE STAND: Crazy Diamond
+0 @I13@ INDI
+1 _UID C7ADEAD2_6
+1 NAME Giorno /Giovanna/
+2 GIVN Giorno
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMC @F2@
+1 NOTE STAND: Gold Experience
+0 @I14@ INDI
+1 _UID C7ADEAD2_7
+1 NAME Donatello /Versus/
+2 GIVN Donatello
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMC @F2@
+1 DEAT
+2 DATE 2012
+1 NOTE STAND: Under World
+0 @I15@ INDI
+1 _UID C7ADEAD2_8
+1 NAME Rikiel //
+2 GIVN Rikiel
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMC @F2@
+1 NOTE STAND: Bohemian Rhapsody
+0 @I16@ INDI
+1 _UID C7ADEAD2_9
+1 NAME Ungalo //
+2 GIVN Ungalo
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMC @F2@
+1 NOTE STAND: Sky High
+0 @I17@ INDI
+1 _UID C7ADEAD2_19
+1 NAME Jolyne /Kujo/
+2 GIVN Jolyne
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F11@
+1 DEAT
+2 DATE 2012
+1 NOTE STAND: Stone Free
+0 @I18@ INDI
+1 _UID C7ADEAD2_20
+1 NAME Shizuka /Joestar/
+2 GIVN Shizuka
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 ADOP
+2 FAMC @F7@
+3 ADOP BOTH
+1 FAMC @F7@
+2 PEDI Adopted
+1 NOTE STAND: Achtung Baby
+0 @I19@ INDI
+1 _UID C7ADEAD2_1
+1 NAME George I /Joestar/
+2 GIVN George I
+1 SEX M
+1 DEAT
+2 DATE 1888
+1 FAMS @F1@
+0 @I20@ INDI
+1 _UID C7ADEAD2_2
+1 NAME Mary /Joestar/
+2 GIVN Mary
+1 SEX F
+1 DEAT
+2 DATE 1868
+1 FAMS @F1@
+0 @I21@ INDI
+1 _UID C7ADEAD2_21
+1 NAME Mommy /Q/
+2 GIVN Mommy
+1 SEX F
+1 DEAT Y
+1 FAMS @F9@
+1 NOTE NOT A CANON
+2 CONT introduced to test the work of the "Тёща" predicate
+0 @I22@ INDI
+1 _UID C7ADEAD2_22
+1 NAME Mommy /Lisa/
+2 GIVN Mommy
+1 SEX F
+1 DEAT Y
+1 FAMS @F5@
+1 NOTE NOT A CANON
+2 CONT introduced to test the work of the "Тёща" predicate
+0 @I23@ INDI
+1 _UID C7ADEAD2_23
+1 NAME Mommy /Pendleton/
+2 GIVN Mommy
+1 SEX F
+1 DEAT Y
+1 FAMS @F4@
+1 NOTE NOT A CANON
+2 CONT introduced to test the work of the "Тёща" predicate
+0 @F1@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I2@
+1 CHIL @I1@
+0 @F2@ FAM
+1 HUSB @I1@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+0 @F3@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I5@
+0 @F4@ FAM
+1 WIFE @I23@
+1 CHIL @I3@
+0 @F5@ FAM
+1 WIFE @I22@
+1 CHIL @I4@
+0 @F6@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 CHIL @I6@
+0 @F7@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I9@
+1 CHIL @I18@
+0 @F8@ FAM
+1 HUSB @I6@
+1 WIFE @I10@
+1 CHIL @I12@
+0 @F9@ FAM
+1 WIFE @I21@
+1 CHIL @I7@
+0 @F10@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I11@
+0 @F11@ FAM
+1 HUSB @I11@
+1 CHIL @I17@
+0 TRLR
